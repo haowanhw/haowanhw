@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> 
+
+## About me
+I am Hao Wan, currently a Master's student in **Computer Science** at the University of Chicago, expected to graduate in **March 2025**. I focus on sofrware engineering and enjoy building reliable projects that brings excellent user experience. 
+
+
 
 <!--
 **haowanhw/haowanhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
