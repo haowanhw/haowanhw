@@ -13,7 +13,7 @@ I am Hao Wan, currently a Master's student in **Computer Science** at the Univer
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/haowanhw/proshop"><b>MERN Stack eCommerce Platform</b></a></td>
+      <td><a href="https://github.com/haowanhw/eCommerce"><b>MERN Stack eCommerce Platform</b></a></td>
       <td><b>Node.js, Express, React, Redux, MongoDB</b></td>
     </tr>
 	  <tr>
